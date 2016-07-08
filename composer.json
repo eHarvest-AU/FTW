@@ -1,14 +1,4 @@
 {
-    "packages": {
-        "eHarvest/FTW": {
-            "dev-master": { @composer.json },
-            "1.0.x-dev": { @composer.json },
-            "0.0.1": { @composer.json },
-            "1.0.0": { @composer.json }
-        }
-    }
-}
-{
     "name": "eHarvest/FTW",
     "version": "1.0.0",
     "dist": {
