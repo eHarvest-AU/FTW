@@ -12,7 +12,7 @@
     "name": "eHarvest/FTW",
     "version": "1.0.0",
     "dist": {
-        "url": "http://www.smarty.net/files/Smarty-3.1.7.zip",
-        "type": "zip"
+        "url": "https://github.com/eHarvest-AU/FTW.git",
+        "type": "git"
     }
 }
